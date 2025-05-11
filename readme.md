@@ -63,7 +63,7 @@ To get a quick look at the viability of the code execution platform, install the
 
 __Test the Sample Code__
 
-Direct testing of the sample problem using Pyzo. Open the main.py module and run it as a script. The data, tables, and all 29 figures should be generated. The figures are initially rendered as bare frames, then filled in at the end.
+Direct testing of the sample problem using Pyzo. Open the main.py module and run it as a script. The data, tables, and all 19 figures should be generated. The figures are initially rendered as bare frames, then filled in at the end.
 
 __Edit the PATH__
 
