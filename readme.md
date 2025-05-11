@@ -71,6 +71,8 @@ After editing the path to provide access to an import directory, the Jupyter fun
 
 There is no need to bother with _jupyter\_notebook\_config.py_.
 
+<img src="https://github.com/whiffee/Jupyter_caveman/blob/main/bashrc_snippet.png" width=73% height=73%/>
+
 __Test Jupyter Rendition__
 
 Open Jupyter and test a notebook file such as the one included from the caveman repository. All the output for the sample problem that was shown in Pyzo should become available.
