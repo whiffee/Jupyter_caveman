@@ -1,5 +1,6 @@
 ﻿__The Place__
-$\hspace{1.5 em}$ What is a caveman? A prominent Jupyter trend in usage and development is toward Jupyterlab. But some paleo, even neanderthal, individuals stick stubbornly to the classic notebook. Almost like a caveman. That's me, Mr. Neanderthal.
+
+   What is a caveman? A prominent Jupyter trend in usage and development is toward Jupyterlab. But some paleo, even neanderthal, individuals stick stubbornly to the classic notebook. Almost like a caveman. That's me, Mr. Neanderthal.
 $\hspace{1.5 em}$The purpose of this repository is twofold: One, to show how to set up a purely classical notebook environment, and Two, to show how to run the demo problem from vmc_pde  for an interesting, even important, approach to partial differential equation solving.
 
 __The Distro__
