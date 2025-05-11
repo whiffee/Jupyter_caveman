@@ -22,7 +22,7 @@ The iso can be installed as either a virtual machine _a la_ Virtual Box, or as a
 
 __Run It__
 
-Once the distro is running, you can add personal prefs if desired, such as Mousepad, PCManFM, and Synaptic. Then download the code from the caveman repository and unzip it in the Downloads directory.
+Once the distro is running, you can add some preferred applications if desired, such as Mousepad, PCManFM, and Synaptic. Then download the code from the caveman repository and unzip it in the Downloads directory.
 
 __Install the Python Framework__
 
