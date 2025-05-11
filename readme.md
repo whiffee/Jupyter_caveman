@@ -28,6 +28,8 @@ __Install the Python Framework__
 
 Right click the unzipped directory and open it in a terminal. Then run
 
+<img src="https://github.com/whiffee/Jupyter_caveman/blob/main/install_requirements.png" width=30% height=30%/>
+
 __Make a Freeze List__
 
 You can do a sanity check on the freeze list. Notice that there are no lines in the list for Jupyterlab or Jupyterlab_server.
