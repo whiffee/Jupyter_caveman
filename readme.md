@@ -49,6 +49,8 @@ If the module mpi4py is included in the requirements.txt list, it will install s
 
 <img src="https://github.com/whiffee/Jupyter_caveman/blob/main/install_openmpi_dev.png" width=73% height=73%/> 
 
+<img src="https://github.com/whiffee/Jupyter_caveman/blob/main/install_mpi4py.png" width=73% height=73%/>
+
 
 
 __Download the VMC_PDE Code__
