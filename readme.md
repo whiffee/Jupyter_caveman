@@ -23,7 +23,7 @@ $\hspace{1.5 em}$Right click the unzipped directory and open it in a terminal. T
 __Make a Freeze List__
 
 
-$\hspace{1.5 em}$You can do a sanity check on the freeze list. Notice that there are no lines for Jupyterlab or Jupyterlab_server.
+$\hspace{1.5 em}$You can do a sanity check on the freeze list. Notice that there are no lines in the list for Jupyterlab or Jupyterlab_server.
 
 
 https://github.com/whiffee/Jupyter_caveman/blob/main/pip-freeze.png
