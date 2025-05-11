@@ -71,7 +71,7 @@ After editing the path to provide access to an import directory, the Jupyter fun
 
 There is no need to bother with _jupyter\_notebook\_config.py_.
 
-<img src="https://github.com/whiffee/Jupyter_caveman/blob/main/bashrc_snippet.png" width=73% height=73%/>
+<img src="https://github.com/whiffee/Jupyter_caveman/blob/main/bashrc_snippet.png" width=55% height=55%/>
 
 __Test Jupyter Rendition__
 
