@@ -67,15 +67,13 @@ Direct testing of the sample problem using Pyzo. Open the main.py module and run
 
 __Edit the PATH__
 
-After editing the path to provide access to an import directory, the Jupyter functionality will be ready to test. 
-
-There is no need to bother with _jupyter\_notebook\_config.py_.
+In the home directory there is a file called .bashrc. It is necessary to edit this file to get permanent effective change in the $PATH. The permanent change that is desired is the access to an import directory, which can hold the modules that the application will need to importas ancilaries.
 
 <img src="https://github.com/whiffee/Jupyter_caveman/blob/main/bashrc_snippet.png" width=61% height=61%/>
 
 __Test Jupyter Rendition__
 
-Open Jupyter and test a notebook file such as the one included from the caveman repository. All the output for the sample problem that was shown in Pyzo should become available.
+Right click on the target directory that was placed in the $PATH, and start Jupyter notebook from there. Open a notebook file such as the one included from the caveman repository. All the output for the sample problem that was shown in Pyzo should become available.
 
 
   
