@@ -28,7 +28,7 @@ __Install the Python Framework__
 
 Right click the unzipped directory and open it in a terminal. Then run
 
-<img src="https://github.com/whiffee/Jupyter_caveman/blob/main/install_requirements.png" width=30% height=30%/>
+<img src="https://github.com/whiffee/Jupyter_caveman/blob/main/install_requirements.png" width=60% height=60%/>
 
 __Make a Freeze List__
 
