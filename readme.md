@@ -22,8 +22,12 @@ $\hspace{1.5 em}$Right click the unzipped directory and open it in a terminal. T
 
 __Make a Freeze List__
 
+
 $\hspace{1.5 em}$You can do a sanity check on the freeze list. Notice that there are no lines for Jupyterlab or Jupyterlab_server.
+
+
 https://github.com/whiffee/Jupyter_caveman/blob/main/pip-freeze.png
+
 __Install jaxlib__
 $\hspace{1.5 em}$The vmc_pde instruction notes specify jaxlib version 1.7.4. However, (not that it matters) I found that version 1.75 is also usable. Notice that pip will choose the file which matches Python 3.8.
 
