@@ -57,6 +57,12 @@ __Download the VMC_PDE Code__
 
 Download the vmc_pde sample problem code and extract it to a directory.
 
+__Install the Python IDE PYZO__
+
+To get a quick look at the viability of the code execution platform, install the Pyzo program.
+
+
+
 __Test the Sample Code__
 
 Direct testing of the sample problem using Pyzo. Open the main.py module and run it as a script. The data, tables, and all 29 figures should be generated. The figures are initially rendered as bare frames, then filled in at the end.
