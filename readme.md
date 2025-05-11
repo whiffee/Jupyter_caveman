@@ -6,7 +6,7 @@ The purpose of this repository is twofold: One, to show how to set up a purely c
 
 __The Distro__
 
-Why Mint 20.2? Python 3.10 throws a spurious runtime error on the sample problem. Python 3.9 is fine, but Mint restricts the installed Python sub-versions to even numbers. Hence 20.2, which ships with Python 3.8.10.
+Why Mint 20.2 ? For some reason, Python 3.10 throws a spurious runtime error on the sample problem. Python 3.9 is fine, but Mint restricts the installed Python sub-versions to even numbers. Hence 20.2, which ships with Python 3.8.10.
 
 __Download It__
 
