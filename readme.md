@@ -22,11 +22,11 @@ The iso can be installed as either a virtual machine _a la_ Virtual Box, or as a
 
 __Run It__
 
-Once the distro is running, you can add some preferred applications if desired, such as Mousepad, PCManFM, or Synaptic. Then download the code from the caveman repository and unzip it in the Downloads directory.
+Once the distro is running, you can add some preferred applications if desired, such as Mousepad, PCManFM, or Synaptic. When the basic articles are in place, download the code from the caveman repository and unzip it in the Downloads directory.
 
 __Install the Python Framework__
 
-Right click the unzipped directory and open it in a terminal. You can type _ls_ to view the directory contents. Then run the installation command. It's actually pretty neat that pip can install any number of modules named in a text list, ensuring that the exact version you specify is installed in each case. 
+Right click the unzipped directory and open it in a terminal. You can type _ls_ to view the directory contents. Then run the installation command. It's actually pretty neat that pip can install any number of modules named in a text list, meanwhile ensuring that the exact version you specify is installed in each case. 
 
 <img src="https://github.com/whiffee/Jupyter_caveman/blob/main/install_requirements.png" width=70% height=70%/>
 
@@ -52,28 +52,27 @@ If the module mpi4py is included in the requirements.txt list, it will install s
 
 __Download the VMC_PDE Code__
 
-Download the vmc_pde sample problem code and extract it to a directory.
+Download the __vmc_pde__ sample problem code and extract it into a directory.
 
 __Install the Python IDE PYZO__
 
-To get a quick look at the viability of the code execution platform, install the Pyzo program.
+To get a quick look at the viability of the code execution machinery, install the Pyzo program.
 
 <img src="https://github.com/whiffee/Jupyter_caveman/blob/main/install_pyzo.png" width=73% height=73%/>
 
-
 __Test the Sample Code__
 
-Direct testing of the sample problem using Pyzo. Open the main.py module and run it as a script. The data, tables, and all 19 figures should be generated. The figures are initially rendered as bare frames, then filled in at the end.
+Directly test the sample problem using Pyzo. Open the main.py module and run it as a script. The data, tables, and all 19 figures should be generated. The figures are initially rendered as bare frames, then filled in at the end. Having demonstrated that the code is viable, you can move on to testing the functionality of the Jupyter version.
 
 __Edit the PATH__
 
-In the home directory there is a file called .bashrc. It is necessary to edit this file to get permanent effective change in the $PATH. The permanent change that is desired is the access to an import directory, which can hold the modules that the application will need to import as ancilaries. At the very end of the file place a $PATH change statement similar to the one shown in the image below.
+In the home directory there is a file called .bashrc. It is necessary to edit this file to get permanent effective change in the $PATH. The permanent change that is desired is access to an import directory, which can hold the modules that the application will need to import as ancillaries. At the very end of the file place a $PATH change statement similar to the one shown on the last line of the image below.
 
 <img src="https://github.com/whiffee/Jupyter_caveman/blob/main/bashrc_snippet.png" width=61% height=61%/>
 
 __Test Jupyter Rendition__
 
-Right click on the target directory that was placed in the $PATH, and start Jupyter notebook from there. Open a notebook file such as the one included from the caveman repository. All the output for the sample problem that was shown in Pyzo should become available.
+Right click on the target directory that was the subject of the $PATH statement in the .bashrc file, open a terminal, and start Jupyter notebook from there. Open a notebook file such as the one included from the caveman repository, and execute the cell containing the __vmc_pde__ test problem. All the output for the sample problem that was shown in Pyzo should become available.
 
 
   
