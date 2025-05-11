@@ -39,9 +39,9 @@ After the installations are complete, you can do a sanity check on the freeze li
 
 __Install jaxlib__
 
-The vmc_pde instruction notes specify jaxlib version 1.7.4. However, (not that it matters) I found that version 1.75 is also usable. Notice that pip will choose the file which matches Python 3.8.
+The vmc_pde instruction notes specify to use jaxlib version 1.7.4. However, (not that it matters) I found that version 1.75 is also usable. Notice that pip will choose the file which matches Python 3.8.
 
-<img src="https://github.com/whiffee/Jupyter_caveman/blob/main/install_jaxlib174.png" width=70% height=70%/> 
+<img src="https://github.com/whiffee/Jupyter_caveman/blob/main/install_jaxlib174.png" width=80% height=80%/> 
 
 __Install chex__
 
