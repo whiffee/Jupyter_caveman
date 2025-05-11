@@ -1,7 +1,8 @@
 ﻿__The Place__
 
-   What is a caveman? A prominent Jupyter trend in usage and development is toward Jupyterlab. But some paleo, even neanderthal, individuals stick stubbornly to the classic notebook. Almost like a caveman. That's me, Mr. Neanderthal.
-$\hspace{1.5 em}$The purpose of this repository is twofold: One, to show how to set up a purely classical notebook environment, and Two, to show how to run the demo problem from vmc_pde  for an interesting, even important, approach to partial differential equation solving.
+What is a caveman? A prominent Jupyter trend in usage and development is toward Jupyterlab. But some paleo, even neanderthal, individuals stick stubbornly to the classic notebook. Almost like a caveman. That's me, Mr. Neanderthal.
+   
+The purpose of this repository is twofold: One, to show how to set up a purely classical notebook environment, and Two, to show how to run the demo problem from vmc_pde  for an interesting, even important, approach to partial differential equation solving.
 
 __The Distro__
 $\hspace{1.5 em}$Why Mint 20.2? Python 3.10 throws a spurious runtime error on the sample problem. Python 3.9 is fine, but Mint restricts the installed Python sub-versions to even numbers. Hence 20.2, which ships with Python 3.8.10.
@@ -27,7 +28,7 @@ __Make a Freeze List__
 $\hspace{1.5 em}$You can do a sanity check on the freeze list. Notice that there are no lines in the list for Jupyterlab or Jupyterlab_server.
 
 
-<img src="https://github.com/whiffee/Jupyter_caveman/blob/main/pip-freeze.png" width=50% height=50%/>
+<img src="https://github.com/whiffee/Jupyter_caveman/blob/main/pip-freeze.png" width=30% height=30%/>
 
 __Install jaxlib__
 $\hspace{1.5 em}$The vmc_pde instruction notes specify jaxlib version 1.7.4. However, (not that it matters) I found that version 1.75 is also usable. Notice that pip will choose the file which matches Python 3.8.
