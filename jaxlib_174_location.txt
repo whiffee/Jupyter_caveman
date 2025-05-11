@@ -1,0 +1,3 @@
+
+
+pip install jaxlib==0.1.74 -f https://storage.googleapis.com/jax-releases/jax_releases.html
