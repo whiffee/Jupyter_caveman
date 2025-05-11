@@ -26,13 +26,13 @@ Once running, you can add personal prefs if desired, such as Mousepad, PCManFM, 
 
 __Install the Python Framework__
 
-Right click the unzipped directory and open it in a terminal. You can type _ls_ to view the directory contents. Then run the installation command.
+Right click the unzipped directory and open it in a terminal. You can type _ls_ to view the directory contents. Then run the installation command. 
 
 <img src="https://github.com/whiffee/Jupyter_caveman/blob/main/install_requirements.png" width=70% height=70%/>
 
 __Make a Freeze List__
 
-You can do a sanity check on the freeze list. Notice that there are no lines in the list for Jupyterlab or Jupyterlab_server.
+After the installations are complete, you can do a sanity check on the freeze list. Notice that there are no lines in the list for Jupyterlab or Jupyterlab_server.
 
 
 <img src="https://github.com/whiffee/Jupyter_caveman/blob/main/pip-freeze.png" width=30% height=30%/>
