@@ -2,7 +2,7 @@
 
 What is a caveman? A prominent announced trend in usage and development in the Jupyter ecosphere is toward Jupyterlab, undoubtedly a strong and popular product. Nevertheless, some 'paleo', even 'neanderthal', individuals stick stubbornly to the classic notebook. Similar to a caveman role. That's me, Mr. Neanderthal.
    
-The purpose of this repository is twofold: One, to show how to set up a purely classical notebook environment, and Two, to show how to run the demo problem from __vmc_pde__  to appreciate an interesting, even important, approach to partial differential equation solving.
+The purpose of this repository is twofold: One, to show how to set up a purely classical notebook environment, and Two, to show how to run the demo problem from __vmc_pde__  to appreciate an interesting, even an important, approach to partial differential equation solving.
 
 __The Distro__
 
