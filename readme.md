@@ -49,9 +49,7 @@ If the module mpi4py is included in the requirements.txt list, it will install s
 
 <img src="https://github.com/whiffee/Jupyter_caveman/blob/main/install_openmpi_dev.png" width=73% height=73%/> 
 
-<img src="https://github.com/whiffee/Jupyter_caveman/blob/main/install_mpi4py.png" width=73% height=73%/>
-
-
+<img src="https://github.com/whiffee/Jupyter_caveman/blob/main/install_pyzo.png" 
 
 __Download the VMC_PDE Code__
 
@@ -61,7 +59,7 @@ __Install the Python IDE PYZO__
 
 To get a quick look at the viability of the code execution platform, install the Pyzo program.
 
-
+<img src="https://github.com/whiffee/Jupyter_caveman/blob/main/install_mpi4py.png" width=73% height=73%/>
 
 __Test the Sample Code__
 
