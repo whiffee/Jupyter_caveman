@@ -26,7 +26,7 @@ Once running, you can add personal prefs if desired, such as Mousepad, PCManFM, 
 
 __Install the Python Framework__
 
-Right click the unzipped directory and open it in a terminal. You can type _ls_ to view the directory contents. Then run
+Right click the unzipped directory and open it in a terminal. You can type _ls_ to view the directory contents. Then run the installation command.
 
 <img src="https://github.com/whiffee/Jupyter_caveman/blob/main/install_requirements.png" width=70% height=70%/>
 
