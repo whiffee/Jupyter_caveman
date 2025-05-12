@@ -8,7 +8,7 @@ The purpose of this repository is twofold: One, to show how to set up a purely c
 
 __The Distro__
 
-Why use Mint 20.2 ? For some reason, Python 3.10 throws a spurious runtime error on the sample problem. Python 3.9 is fine, but as a policy decision, Mint restricts the installed Python sub-versions to even numbers. This makes 20.2 the natural choice, since it ships with Python 3.8.10, the highest version available in Mint which is less than 3.10.
+Why use Mint 20.2 ? For some reason, Python 3.10 throws a runtime error of questionable applicability on the sample problem. All is fine with Python 3.9, but as a policy decision, Mint restricts the installed Python sub-versions to even numbers. This makes 20.2 the natural choice, since it ships with Python 3.8.10, the highest version available in Mint which is less than 3.10.
 
 __Download It__
 
