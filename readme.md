@@ -4,7 +4,7 @@ What is a caveman? A prominent announced trend in usage and development in the J
    
 The purpose of this repository is twofold: One, to show how to set up a purely classical notebook environment, and Two, to show how to run the demo problem from __vmc_pde__  to appreciate an interesting, even an important, approach to partial differential equation solving.
 
-<img src="https://github.com/whiffee/Jupyter_caveman/blob/main/caveman.jpg"  width=12% height=12%/>
+<img src="https://github.com/whiffee/Jupyter_caveman/blob/main/caveman.jpg"  width=10% height=10%/>
 
 __The Distro__
 
