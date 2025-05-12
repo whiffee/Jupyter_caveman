@@ -31,7 +31,7 @@ The iso can be installed as either a virtual machine _a la_ Virtual Box, or as a
 
 __Run It__
 
-Once the distro is running, you can add some preferred applications if desired, such as Mousepad, PCManFM, or Synaptic. When the basic articles are in place, download the code from the caveman repository and unzip it in the Downloads directory.
+Once the distro is running, you can add some preferred applications if desired, such as Mousepad, PCManFM, or Synaptic. When a basic toolset is in place, download the code from the caveman repository and unzip it in the Downloads directory.
 
 <img src="https://github.com/whiffee/Jupyter_caveman/blob/main/bottom_panel.png" width=30% height=30%/>
 
