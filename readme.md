@@ -20,38 +20,38 @@ __Etch It__
 
 Balena Etcher writes the iso to a bootable executable on a SD chip.
 
-<img src="https://github.com/whiffee/Jupyter_caveman/blob/main/balena.png" width=40% height=40%/>
+<img src="balena.png" width=40% height=40%/>
 
 __Install It__
 
 The iso can be installed as either a virtual machine _a la_ Virtual Box, or as an independent drive. I made three test runs with a standalone SSD to validate the procedure outlined here.
 
-<img src="https://github.com/whiffee/Jupyter_caveman/blob/main/virtual_box.png" width=40% height=40%/>
+<img src="virtual_box.png" width=40% height=40%/>
 
 
 __Run It__
 
 Once the distro is running, you can add some preferred applications if desired, such as Mousepad, PCManFM, or Synaptic. When a basic toolset is in place, download the code from the caveman repository and extract it in the Downloads directory.
 
-<img src="https://github.com/whiffee/Jupyter_caveman/blob/main/bottom_panel.png" width=30% height=30%/>
+<img src="bottom_panel.png" width=30% height=30%/>
 
 __Install the Python Framework__
 
 Right click the extracted caveman directory and open it in a terminal. You can type _ls_ to view the directory contents. Then run the installation command. It's actually pretty neat that pip can install any number of modules named in a text list, meanwhile ensuring that the exact version you specify is installed in each case. 
 
-<img src="https://github.com/whiffee/Jupyter_caveman/blob/main/install_requirements.png" width=70% height=70%/>
+<img src="install_requirements.png" width=70% height=70%/>
 
 __Make a Freeze List__
 
 After the installations are complete, you can do a sanity check on the freeze list. Notice that there are no lines in the list for Jupyterlab or Jupyterlab_server.
 
-<img src="https://github.com/whiffee/Jupyter_caveman/blob/main/pip-freeze.png" width=30% height=30%/>
+<img src="pip-freeze.png" width=30% height=30%/>
 
 __Install jaxlib__
 
 The __vmc_pde__ instruction notes specify to use jaxlib version 1.7.4. However, (not that it matters) I found that version 1.75 is also usable. Notice that within numerical version siblings, pip will choose the file which matches Python 3.8. Because the pip-accessible file database does not contain the desired version of jaxlib, pip has to install from a secondary source. A text file with the address in selectable format is contained in the repository files and appears in the image below. As for the red text warnings shown, the stated non-compatibility does not actually exist; in fact the success of the whole versioning exercise is to deliver compatibility, which it successfully does.
 
-<img src="https://github.com/whiffee/Jupyter_caveman/blob/main/install_jaxlib_w_red.png" width=80% height=80%/> 
+<img src="install_jaxlib_w_red.png" width=80% height=80%/> 
 
 __Install mpi4py__
 
@@ -59,7 +59,7 @@ If the module mpi4py is included in the requirements.txt list, it will install s
 
 <img src="https://github.com/whiffee/Jupyter_caveman/blob/main/install_openmpi_dev.png" width=73% height=73%/>
 
-<img src="https://github.com/whiffee/Jupyter_caveman/blob/main/install_mpi4py.png" width=73% height=73%/>
+<img src="install_mpi4py.png" width=73% height=73%/>
 
 __Download the VMC_PDE Code__
 
@@ -69,7 +69,7 @@ __Install the Python IDE PYZO__
 
 To get a quick look at the viability of the code execution machinery, install the Pyzo program.
 
-<img src="https://github.com/whiffee/Jupyter_caveman/blob/main/install_pyzo.png" width=73% height=73%/>
+<img src="install_pyzo.png" width=73% height=73%/>
 
 __Test the Sample Code__
 
@@ -79,7 +79,7 @@ __Edit the PATH__
 
 In the home directory there is a file called .bashrc. It is necessary to edit this file to get permanent effective change in the $PATH. The permanent change that is desired is access to some designated import directory, which can hold the modules that the application will need to import as ancillaries. At the very end of the file place a $PATH change statement similar to the one shown on the last line of the image below.
 
-<img src="https://github.com/whiffee/Jupyter_caveman/blob/main/bashrc_bottom.png" width=46% height=46%/>
+<img src="bashrc_bottom.png" width=46% height=46%/>
 
 __Test Jupyter Rendition__
 
