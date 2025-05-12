@@ -69,7 +69,7 @@ Download the __vmc_pde__ sample problem code and extract it into a directory.
 
 __Install the Python IDE IDLE__
 
-
+<img src="idle_header.png" width=60% height=60%/>
 
 To get a quick look at the viability of the code execution machinery, install the Idle program, if it is not already installed.
 
