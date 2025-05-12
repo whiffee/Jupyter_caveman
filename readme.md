@@ -20,7 +20,7 @@ __Etch It__
 
 Balena Etcher writes the iso to a bootable executable on a SD chip.
 
-<img src="balena.png" width=40% height=40%/>
+<img src="balena.png" width=27% height=27%/>
 
 __Install It__
 
