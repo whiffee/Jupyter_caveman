@@ -12,6 +12,8 @@ __Download It__
 
 Download Mint 20.2 XFCE version. The downloaded iso is about 1.9 GB in size.
 
+<img src="https://github.com/whiffee/Jupyter_caveman/blob/main/ver20.2download.png" width=60% height=60%/>
+
 __Etch It__
 
 Balena Etcher writes the iso to a bootable executable on a SD chip.
