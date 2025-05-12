@@ -4,7 +4,7 @@ What is a caveman? An announced and prominent trend in usage and development in 
    
 The purpose of this repository is twofold: One, to show how to set up a purely classical notebook environment, and Two, to show how to run the demo problem from __vmc_pde__  to appreciate an important recent approach to partial differential equation solving.
 
-<img src="caveman.jpg"  width=10% height=10%/>
+<img src="caveman.jpg"  width=5% height=5%/>
 
 __The Distro__
 
@@ -14,7 +14,7 @@ __Download It__
 
 Download Mint 20.2 XFCE version. The downloaded iso is about 1.9 GB in size.
 
-<img src="ver20.2download.png" width=60% height=60%/>
+<img src="ver20.2download.png" width=36% height=36%/>
 
 __Etch It__
 
