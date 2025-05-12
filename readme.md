@@ -33,6 +33,8 @@ __Run It__
 
 Once the distro is running, you can add some preferred applications if desired, such as Mousepad, PCManFM, or Synaptic. When the basic articles are in place, download the code from the caveman repository and unzip it in the Downloads directory.
 
+<img src="https://github.com/whiffee/Jupyter_caveman/blob/main/bottom_panel.png" width=70% height=70%/>
+
 __Install the Python Framework__
 
 Right click the unzipped caveman directory and open it in a terminal. You can type _ls_ to view the directory contents. Then run the installation command. It's actually pretty neat that pip can install any number of modules named in a text list, meanwhile ensuring that the exact version you specify is installed in each case. 
