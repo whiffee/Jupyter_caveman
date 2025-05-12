@@ -62,7 +62,7 @@ To get a quick look at the viability of the code execution machinery, install th
 
 __Test the Sample Code__
 
-Directly test the sample problem using Pyzo. Open the main.py module and run it as a script. The data, tables, and all 19 figures should be generated. The figures are initially rendered as bare frames, then filled in at the end. Having demonstrated that the code is viable, you can move on to testing the functionality of the Jupyter version.
+Directly test the sample problem using Pyzo. Open the main.py module, located within the Fluids directory, and run it as a script. The data, tables, and all 19 figures should be generated. The figures are initially rendered as bare frames, then filled in at the end. Having demonstrated that the code is viable, you can move on to testing the functionality of the Jupyter version.
 
 __Edit the PATH__
 
