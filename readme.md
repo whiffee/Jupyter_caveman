@@ -57,7 +57,7 @@ __Install mpi4py__
 
 If the module mpi4py is included in the requirements.txt list, it will install smoothly initially, but it will get kicked out later, before the end of the installation fest, and in such a way that it can't be re-installed directly. I took a hint from Stack Overflow question 28440834, first installing the dev version of Open MPI, and then installing mpi4py without specifying the desired version. (It installed version 4.0.3).
 
-<img src="images/https://github.com/whiffee/Jupyter_caveman/blob/main/install_openmpi_dev.png" width=40% height=40%/>
+<img src="images/install_openmpi_dev.png" width=40% height=40%/>
 
 <img src="images/install_mpi4py.png" width=40% height=40%/>
 
@@ -71,7 +71,7 @@ __Install the Python IDE PYZO__
 
 To get a quick look at the viability of the code execution machinery, install the Pyzo program.
 
-<img src="images/install_pyzo.png" width=73% height=73%/>
+
 
 __Test the Sample Code__
 
