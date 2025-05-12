@@ -55,7 +55,7 @@ The __vmc_pde__ instruction notes specify to use jaxlib version 1.7.4. However, 
 
 __Install mpi4py__
 
-If the module mpi4py is included in the requirements.txt list, it will install smoothly initially, but get kicked out later, before the end, and in such a way that it can't be re-installed directly. I took a hint from Stack Overflow question 28440834, first installing the dev version of Open MPI, and then installing mpi4py without specifying the desired version. (It installed version 4.0.3 on 11 May 2025).
+If the module mpi4py is included in the requirements.txt list, it will install smoothly initially, but get kicked out later, before the end of the installation fest, and in such a way that it can't be re-installed directly. I took a hint from Stack Overflow question 28440834, first installing the dev version of Open MPI, and then installing mpi4py without specifying the desired version. (It installed version 4.0.3 on 11 May 2025).
 
 <img src="https://github.com/whiffee/Jupyter_caveman/blob/main/install_openmpi_dev.png" width=73% height=73%/>
 
