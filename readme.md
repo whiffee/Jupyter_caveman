@@ -71,7 +71,7 @@ __Install the Python IDE IDLE__
 
 To get a quick look at the viability of the code execution machinery, install the Idle program, if it is not already installed.
 
-<img src="idle_header.png" width=60% height=60%/>
+<img src="idle_header.png" width=52% height=52%/>
 
 __Test the Sample Code__
 
