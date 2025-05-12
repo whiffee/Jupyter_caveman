@@ -14,7 +14,7 @@ __Download It__
 
 Download Mint 20.2 XFCE version. The downloaded iso is about 1.9 GB in size.
 
-<img src="ver20.2download.png" width=36% height=36%/>
+<img src="images/ver20.2download.png" width=36% height=36%/>
 
 __Etch It__
 
