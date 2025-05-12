@@ -22,6 +22,9 @@ __Install It__
 
 The iso can be installed as either a virtual machine _a la_ Virtual Box, or as an independent drive. I made three test runs with a standalone SSD to validate the procedure outlined here.
 
+<img src="https://github.com/whiffee/Jupyter_caveman/blob/main/virtual_box.png" width=30% height=30%/>
+
+
 __Run It__
 
 Once the distro is running, you can add some preferred applications if desired, such as Mousepad, PCManFM, or Synaptic. When the basic articles are in place, download the code from the caveman repository and unzip it in the Downloads directory.
