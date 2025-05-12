@@ -31,13 +31,13 @@ The iso can be installed as either a virtual machine _a la_ Virtual Box, or as a
 
 __Run It__
 
-Once the distro is running, you can add some preferred applications if desired, such as Mousepad, PCManFM, or Synaptic. When a basic toolset is in place, download the code from the caveman repository and unzip it in the Downloads directory.
+Once the distro is running, you can add some preferred applications if desired, such as Mousepad, PCManFM, or Synaptic. When a basic toolset is in place, download the code from the caveman repository and extract it in the Downloads directory.
 
 <img src="https://github.com/whiffee/Jupyter_caveman/blob/main/bottom_panel.png" width=30% height=30%/>
 
 __Install the Python Framework__
 
-Right click the unzipped caveman directory and open it in a terminal. You can type _ls_ to view the directory contents. Then run the installation command. It's actually pretty neat that pip can install any number of modules named in a text list, meanwhile ensuring that the exact version you specify is installed in each case. 
+Right click the extracted caveman directory and open it in a terminal. You can type _ls_ to view the directory contents. Then run the installation command. It's actually pretty neat that pip can install any number of modules named in a text list, meanwhile ensuring that the exact version you specify is installed in each case. 
 
 <img src="https://github.com/whiffee/Jupyter_caveman/blob/main/install_requirements.png" width=70% height=70%/>
 
