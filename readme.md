@@ -51,15 +51,15 @@ __Install jaxlib__
 
 The __vmc_pde__ instruction notes specify to use jaxlib version 1.7.4. However, (not that it matters) I found that version 1.75 is also usable. Notice that within numerical version siblings, pip will choose the file which matches Python 3.8. Because the pip-accessible file database does not contain the desired version of jaxlib, pip has to install from a secondary source. A text file with the address in selectable format is contained in the repository files and appears in the image below. As for the red text warnings shown, the stated non-compatibility does not actually exist; in fact the success of the whole versioning exercise is to deliver compatibility, which it successfully does.
 
-<img src="install_jaxlib_w_red.png" width=56% height=56%/> 
+<img src="install_jaxlib_w_red.png" width=50% height=50%/> 
 
 __Install mpi4py__
 
 If the module mpi4py is included in the requirements.txt list, it will install smoothly initially, but it will get kicked out later, before the end of the installation fest, and in such a way that it can't be re-installed directly. I took a hint from Stack Overflow question 28440834, first installing the dev version of Open MPI, and then installing mpi4py without specifying the desired version. (It installed version 4.0.3).
 
-<img src="https://github.com/whiffee/Jupyter_caveman/blob/main/install_openmpi_dev.png" width=73% height=73%/>
+<img src="https://github.com/whiffee/Jupyter_caveman/blob/main/install_openmpi_dev.png" width=40% height=40%/>
 
-<img src="install_mpi4py.png" width=73% height=73%/>
+<img src="install_mpi4py.png" width=40% height=40%/>
 
 __Download the VMC_PDE Code__
 
