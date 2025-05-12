@@ -67,15 +67,15 @@ Download the __vmc_pde__ sample problem code and extract it into a directory.
 
 <img src="images/vmc-in-downloads.png" width=40% height=40%/>
 
-__Install the Python IDE PYZO__
+__Install the Python IDE IDLE__
 
-To get a quick look at the viability of the code execution machinery, install the Pyzo program.
+To get a quick look at the viability of the code execution machinery, install the Idle program, if it is not already installed.
 
 
 
 __Test the Sample Code__
 
-Directly test the sample problem using Pyzo. Open the main.py module, located within the Fluids directory, and run it as a script. The data, tables, and all 19 figures should be generated. The figures are initially rendered as bare frames, then filled in at the end. Having demonstrated that the code is viable, you can move on to testing the functionality of the Jupyter version.
+Directly test the sample problem using Idle. Open the main.py module, located within the Fluids directory, and run it. The data, tables, and all 19 figures should be generated. The first six figures are rendered one at a time, and it is up to the user to save or discard them before the program continues. After having demonstrated that the code is viable, you can move on to testing the functionality of the Jupyter version.
 
 __Edit the PATH__
 
@@ -85,7 +85,7 @@ In the home directory there is a file called .bashrc. It is necessary to edit th
 
 __Test Jupyter Rendition__
 
-Right click on the target directory that was the subject of the $PATH statement in the .bashrc file, open a terminal, and start Jupyter notebook from there. Open a notebook file such as the one included from the caveman repository, and execute the cell containing the __vmc_pde__ test problem. All the output for the sample problem that was shown in Pyzo should become available.
+Right click on the target directory that was the subject of the $PATH statement in the .bashrc file, open a terminal, and start Jupyter notebook from there. Open a notebook file such as the one included from the caveman repository, and execute the cell containing the __vmc_pde__ test problem. All the output for the sample problem that was shown in Idle should become available, though the figures will be generated without pause.
 
 <img src="images/6pics_orig_size.png" width=46% height=46%/>
 
