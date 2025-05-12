@@ -33,7 +33,7 @@ __Run It__
 
 Once the distro is running, you can add some preferred applications if desired, such as Mousepad, PCManFM, or Synaptic. When the basic articles are in place, download the code from the caveman repository and unzip it in the Downloads directory.
 
-<img src="https://github.com/whiffee/Jupyter_caveman/blob/main/bottom_panel.png" width=70% height=70%/>
+<img src="https://github.com/whiffee/Jupyter_caveman/blob/main/bottom_panel.png" width=30% height=30%/>
 
 __Install the Python Framework__
 
