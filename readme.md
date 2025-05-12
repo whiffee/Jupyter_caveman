@@ -49,7 +49,7 @@ After the installations are complete, you can do a sanity check on the freeze li
 
 __Install jaxlib__
 
-The __vmc_pde__ instruction notes specify to use jaxlib version 1.7.4. However, (not that it matters) I found that version 1.75 is also usable. Notice that within numerical version siblings, pip will choose the file which matches Python 3.8. Because the pip-accessible file database does not contain the desired version of jaxlib, pip has to install from a secondary source. A text file with the address in selectable format is contained in the caveman repository files and the address appears in the image below. As for the red text warnings shown, the stated non-compatibility does not actually exist; in fact the success of the whole versioning exercise is to deliver compatibility, which it successfully does.
+The __vmc_pde__ instruction notes specify to use jaxlib version 1.7.4. However, (not that it matters) I found that version 1.7.5 is also usable. Notice that within numerical version siblings, pip will choose the file which matches Python 3.8. Because the pip-accessible file database does not contain the desired version of jaxlib, pip has to install from a secondary source. A text file with the address in selectable format is contained in the caveman repository files and the address appears in the image below. As for the red text warnings shown, the stated non-compatibility does not actually exist; in fact the success of the whole versioning exercise is to deliver compatibility, which it successfully does.
 
 <img src="images/install_jaxlib_w_red.png" width=40% height=40%/> 
 
