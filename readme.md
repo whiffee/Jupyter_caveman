@@ -85,10 +85,9 @@ Right click on the target directory that was the subject of the $PATH statement 
 
 
 
-<div style="background: #DDE2FF;
-            font-family: Bookerly;
-            font-size: 6px; 
-            font-weight: 500;"
+<div style=font-family: Bookerly;
+           font-size: 6px; 
+           font-weight: 500;"
             clipart credit to Jean Beaufort (publicdomainpictures.net)
 
 </div>            
