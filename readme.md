@@ -85,9 +85,13 @@ Right click on the target directory that was the subject of the $PATH statement 
 
 
 <font size="5"/>clipart credit to Jean Beaufort (publicdomainpictures.net)
-<span style="color:green;font-weight:700;font-size:5px">
-clipart credit to Jean Beaufort (publicdomainpictures.net)
-</span>
+<div style="background: #DDE2FF;
+            font-family: Bookerly;
+            font-size: 6px; 
+            font-weight: 500;
+            clipart credit to Jean Beaufort (publicdomainpictures.net)
+
+</div>            
 
 
   
