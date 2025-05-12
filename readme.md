@@ -66,7 +66,7 @@ Directly test the sample problem using Pyzo. Open the main.py module, located wi
 
 __Edit the PATH__
 
-In the home directory there is a file called .bashrc. It is necessary to edit this file to get permanent effective change in the $PATH. The permanent change that is desired is access to an import directory, which can hold the modules that the application will need to import as ancillaries. At the very end of the file place a $PATH change statement similar to the one shown on the last line of the image below.
+In the home directory there is a file called .bashrc. It is necessary to edit this file to get permanent effective change in the $PATH. The permanent change that is desired is access to some designated import directory, which can hold the modules that the application will need to import as ancillaries. At the very end of the file place a $PATH change statement similar to the one shown on the last line of the image below.
 
 <img src="https://github.com/whiffee/Jupyter_caveman/blob/main/bashrc_snippet.png" width=61% height=61%/>
 
