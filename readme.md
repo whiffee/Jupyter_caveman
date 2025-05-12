@@ -45,13 +45,13 @@ __Make a Freeze List__
 
 After the installations are complete, you can do a sanity check on the freeze list. Notice that there are no lines in the list for Jupyterlab or Jupyterlab_server.
 
-<img src="pip-freeze.png" width=30% height=30%/>
+<img src="pip-freeze.png" width=20% height=20%/>
 
 __Install jaxlib__
 
 The __vmc_pde__ instruction notes specify to use jaxlib version 1.7.4. However, (not that it matters) I found that version 1.75 is also usable. Notice that within numerical version siblings, pip will choose the file which matches Python 3.8. Because the pip-accessible file database does not contain the desired version of jaxlib, pip has to install from a secondary source. A text file with the address in selectable format is contained in the repository files and appears in the image below. As for the red text warnings shown, the stated non-compatibility does not actually exist; in fact the success of the whole versioning exercise is to deliver compatibility, which it successfully does.
 
-<img src="install_jaxlib_w_red.png" width=80% height=80%/> 
+<img src="install_jaxlib_w_red.png" width=56% height=56%/> 
 
 __Install mpi4py__
 
