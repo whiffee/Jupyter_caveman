@@ -65,7 +65,7 @@ __Download the VMC_PDE Code__
 
 Download the __vmc_pde__ sample problem code and extract it into a directory.
 
-<img src="vmc-in-downloads.png" width=50% height=50%/>
+<img src="vmc-in-downloads.png" width=40% height=40%/>
 
 __Install the Python IDE PYZO__
 
