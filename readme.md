@@ -49,7 +49,7 @@ __Install jaxlib__
 
 The vmc_pde instruction notes specify to use jaxlib version 1.7.4. However, (not that it matters) I found that version 1.75 is also usable. Notice that within numerical version siblings, pip will choose the file which matches Python 3.8.
 
-<img src="https://github.com/whiffee/Jupyter_caveman/blob/main/install_jaxlib174.png" width=80% height=80%/> 
+<img src="https://github.com/whiffee/Jupyter_caveman/blob/main/install_jaxlib_w_red.png" width=80% height=80%/> 
 
 __Install mpi4py__
 
