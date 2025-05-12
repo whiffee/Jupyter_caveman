@@ -84,7 +84,7 @@ __Test Jupyter Rendition__
 Right click on the target directory that was the subject of the $PATH statement in the .bashrc file, open a terminal, and start Jupyter notebook from there. Open a notebook file such as the one included from the caveman repository, and execute the cell containing the __vmc_pde__ test problem. All the output for the sample problem that was shown in Pyzo should become available.
 
 
-<font size = "5">clipart credit to Jean Beaufort (publicdomainpictures.net)
+<font size="5"/>clipart credit to Jean Beaufort (publicdomainpictures.net)
 
 
   
