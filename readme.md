@@ -33,13 +33,13 @@ __Run It__
 
 Once the distro is running, you can add some preferred applications if desired, such as Mousepad, PCManFM, or Synaptic. When a basic toolset is in place, download the code from the caveman repository and extract it in the Downloads directory.
 
-<img src="bottom_panel.png" width=30% height=30%/>
+<img src="bottom_panel.png" width=20% height=20%/>
 
 __Install the Python Framework__
 
 Right click the extracted caveman directory and open it in a terminal. You can type _ls_ to view the directory contents. Then run the installation command. It's actually pretty neat that pip can install any number of modules named in a text list, meanwhile ensuring that the exact version you specify is installed in each case. 
 
-<img src="install_requirements.png" width=70% height=70%/>
+<img src="install_requirements.png" width=50% height=50%/>
 
 __Make a Freeze List__
 
