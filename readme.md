@@ -8,7 +8,7 @@ The purpose of this repository is twofold: One, to show how to set up a purely c
 
 __The Distro__
 
-Why use Mint 20.2 ? For the Jaxlib version that will be required, 1.7.4, the only available Python wheels will be for Python 7, 8, and 9. From Python 3.9 experience, I can say that all is fine with Python 3.9 for this project, but to keep things simple I want to utilize native Python in whatever distro is chosen. Mint 20.2 inherits from Ubuntu 20.04, which ships Python 3.8.2 as default. By the time Mint 20.2 was released, the micro version had progressed to 3.8.10. This is the same version available on Mint 20.3, but I happened to download a corrupted version of 20.3, which soured me I guess. So Mint 20.2 will get the nod.
+Why use Mint 20.2 ? For the Jaxlib version that will be required, 1.7.4, the only available Python wheels will be for Python 3.7, 3.8, and 3.9. From Python 3.9 experience, I can say that all is fine with Python 3.9 for this project, but to keep things simple I want to utilize native Python in whatever distro is chosen. Mint 20.2 inherits from Ubuntu 20.04, which ships Python 3.8.2 as default. By the time Mint 20.2 was released, the micro version had progressed to 3.8.10. This is the same version available on Mint 20.3, but I happened to download a corrupted version of 20.3, which soured me I guess. So Mint 20.2 will get the nod.
 
 __Download It__
 
