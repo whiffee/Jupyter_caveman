@@ -37,7 +37,7 @@ Once the distro is running, you can add some preferred applications if desired, 
 
 __Install the Python Framework__
 
-Right click the extracted caveman directory and open it in a terminal. You can type _ls_ to view the directory contents. Then run the installation command. It's actually pretty neat that pip can install any number of modules named in a text list, meanwhile ensuring that the exact version you specify is installed in each case. If there happens to be a hiccup, pip will stop the process with red error msgs. In this case, the requirements.txt file can be edited to solve the issue, and the execution can be re-run.
+Right click the extracted caveman directory and open it in a terminal. You can type _ls_ to view the directory contents. Then run the installation command shown below. It's actually pretty neat that pip can install any number of modules named in a text list, meanwhile ensuring that the exact version you specify is installed in each case. If there happens to be a hiccup, pip will stop the process with red error msgs. In this case, the requirements.txt file can be edited to solve the issue, and the execution can be re-run.
 
 <img src="images/install_requirements.png" width=50% height=50%/>
 
