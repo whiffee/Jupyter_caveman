@@ -75,7 +75,7 @@ To get a quick look at the viability of the code execution machinery, use apt to
 
 __Test the Sample Code__
 
-Directly test the sample problem using Idle. Open the main.py module, located within the Fluids directory, and run it. The data, tables, and all 19 figures should be generated. The first six figures are rendered one at a time, and it is up to the user to save or discard them before the program continues. After having demonstrated that the code is viable, you can move on to testing the functionality of the Jupyter version.
+Directly test the sample problem using Idle. Open the main.py module, located within the __vmc_fluids__ directory, and run it. The data, tables, and all 19 figures should be generated. The first six figures are rendered one at a time, and it is up to the user to save or discard them before the program continues. After having demonstrated that the code is viable, you can move on to testing the functionality of the Jupyter version.
 
 __Edit the PATH__
 
@@ -85,7 +85,7 @@ In the home directory there is a file called .bashrc. It is necessary to edit th
 
 __Test Jupyter Rendition__
 
-The target directory that was the subject of the $PATH statement in the .bashrc file should be augmented to contain the 14 .py files that are located in the Fluids directory of the __vmc_pde__ code folder, plus a sample notebook file with a cell containing the main.py code. Right click on this target directory, open a terminal, and start the Jupyter notebook from there. Open a notebook file and execute the critical cell. All the output for the sample problem that was shown in Idle should become available, though in Jupyter the figures will be generated without pauses.
+The target directory that was the subject of the $PATH statement in the .bashrc file should be augmented to contain the 14 .py files that are located in the __vmc_fluids__ directory of the __vmc_pde__ code folder, plus a sample notebook file with a cell containing the main.py code. Right click on this target directory, open a terminal, and start the Jupyter notebook from there. Open a notebook file and execute the critical cell. All the output for the sample problem that was shown in Idle should become available, though in Jupyter the figures will be generated without pauses.
 
 <img src="images/6pics_orig_size.png" width=46% height=46%/>
 
