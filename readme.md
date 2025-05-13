@@ -24,7 +24,7 @@ Balena Etcher writes the iso to a bootable executable on a SD chip.
 
 __Install It__
 
-The iso can be installed as either a virtual machine _a la_ Virtual Box, or as an independent drive. I made three test runs with a standalone SSD to validate the procedure outlined here.
+The iso can be installed as either a virtual machine _a la_ Virtual Box, or as an independent drive. I made three test runs with a dedicated SSD to validate the procedure outlined here.
 
 <img src="images/virtual_box.png" width=40% height=40%/>
 
