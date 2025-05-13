@@ -85,7 +85,7 @@ In the home directory there is a file called .bashrc. It is necessary to edit th
 
 __Test Jupyter Rendition__
 
-The target directory that was the subject of the $PATH statement in the .bashrc file should contain the 14 .py files that are located in the Fluids directory of the __vmc_pde__ code folder. Right click on this target directory, open a terminal, and start Jupyter notebook from there. Open a notebook file such as the one included from the caveman repository, and execute the cell containing the __vmc_pde__ test problem. All the output for the sample problem that was shown in Idle should become available, though in Jupyter the figures will be generated without pause.
+The target directory that was the subject of the $PATH statement in the .bashrc file should be augmented to contain the 14 .py files that are located in the Fluids directory of the __vmc_pde__ code folder. Right click on this target directory, open a terminal, and start Jupyter notebook from there. Open a notebook file such as the one included from the caveman repository, and execute the cell containing the __vmc_pde__ test problem. All the output for the sample problem that was shown in Idle should become available, though in Jupyter the figures will be generated without pause.
 
 <img src="images/6pics_orig_size.png" width=46% height=46%/>
 
