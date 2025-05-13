@@ -92,6 +92,6 @@ The target directory that was the subject of the $PATH statement in the .bashrc 
 
 clipart credit to Jean Beaufort (publicdomainpictures.net)
 
-Page last updated on 12 May 2025
+Page last updated on 13 May 2025
 
   
