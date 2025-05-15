@@ -18,7 +18,7 @@ Download Mint 20.2 XFCE version. The downloaded iso is about 1.9 GB in size.
 
 __Install It__or__Etch It__
 
-The iso can be installed as either a virtual machine _a la_ Virtual Box, or as an independent drive. If it is to be installed as an independent bootable distro, then Balena Etcher writes the iso to a bootable executable on a SD chip. If destined for a virtual machine, it should be left as a non-bootable iso file. I did test runs of both paths to verify the procedure outlined here.
+The iso can be installed as either a virtual machine _a la_ Virtual Box, or as an independent drive. If it is to be installed as an independent bootable distro, then Balena Etcher writes the iso to a bootable executable on a SD chip. If destined for a virtual machine, it should be left as a non-bootable iso file. (I did test runs of both paths to verify the procedure outlined here.)
 
 <img src="images/balena.png" width=27% height=27%/>
 
