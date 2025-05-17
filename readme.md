@@ -71,7 +71,7 @@ To get a quick look at the viability of the code execution machinery, use apt to
 
 __Test the Sample Code__
 
-Directly test the sample problem using Idle. Open the main.py module, located within the __vmc_fluids__ directory, and run it. The data, tables, and all 19 figures should be generated. The first six figures are rendered one at a time, and it is up to the user to save or discard them before the program continues. After having demonstrated that the code is viable, you can move on to testing the functionality of the Jupyter version.
+Directly test the sample problem using Pyzo. Open the main.py module, located within the __vmc_fluids__ directory, and run it. The data, tables, and all 19 figures should be generated. After having demonstrated that the code is viable, you can move on to testing the functionality of the Jupyter version.
 
 __Edit the PATH__
 
