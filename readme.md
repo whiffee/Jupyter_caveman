@@ -67,7 +67,7 @@ __Install the Python IDE Pyzo__
 
 To get a quick look at the viability of the code execution machinery, use apt to install the Pyzo program and configure it.
 
-<img src="configure_pyzo.png" width=39% height=39%/>
+<img src="configure_pyzo.png" width=30% height=30%/>
 
 __Test the Sample Code__
 
