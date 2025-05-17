@@ -28,7 +28,7 @@ __Run It__
 
 Once the distro is running, you can add some preferred applications if desired. Note that before installing anything, the traditional command _sudo apt update_ is recommended. The included browser does not meet current Github standards, so download a fresh copy of Firefox or other and extract it in the Downloads directory. Using the new browser, download the Github code from both repositories: whiffee/Jupyter_caveman and RehMoritz/vmc_pde, and extract them.
 
-<img src="images/bottom_panel.png" width=20% height=20%/>
+<img src="images/202w5icons.png" width=20% height=20%/>
 
 __Install pip__
 
