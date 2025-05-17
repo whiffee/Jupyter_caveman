@@ -8,7 +8,7 @@ The purpose of this repository is twofold: One, to show how to set up a purely c
 
 __The Distro__
 
-Why use Mint 20.2 ? For the Jaxlib version that will be required, 1.7.4, the only available Python wheels will be for Python 3.7, 3.8, and 3.9. Mint 20.2 inherits from Ubuntu 20.04, which ships Python 3.8.2 as default. Perhaps there is a distro out there somewhere that ships with Python 3.9, but for now, Mint 20.2 will do.
+Why use Mint 20.2 ? For the jaxlib version that will be required, 1.7.4, the only available Python wheels will be for Python 3.7, 3.8, and 3.9. Mint 20.2 inherits from Ubuntu 20.04, which ships Python 3.8.2 as default. Perhaps there is a distro out there somewhere that ships with Python 3.9, but for now, Mint 20.2 will do.
 
 __Download It__
 
