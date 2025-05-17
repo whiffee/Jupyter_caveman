@@ -32,7 +32,7 @@ Once the distro is running, you can add some preferred applications if desired, 
 
 __Install pip__
 
-If you invoke pip in a terminal, advice about the correct syntax for its installation will appear. Pip comes with some baggage, and takes a little time to get installed. When dealing with an older distro, things can go wrong, like not being able to install pip. If this happens, see the pip-related snippet in the file _terminal-snippets_.
+If you invoke pip in a terminal, advice about the correct syntax for its installation will appear. Pip comes with some baggage, and takes a little time to get installed. When dealing with an older distro, things can go wrong, like not being able to install pip. If this happens, see the pip-related snippet in the file _terminal\_snippets_.
 
 
 __Install the Python Framework__
@@ -49,7 +49,7 @@ After the installations are complete, you can do a sanity check on the freeze li
 
 __Install jaxlib__
 
-The __vmc_pde__ instruction notes specify to use jaxlib version 1.7.4. (Not that it matters, I found that version 1.7.5 is also usable.) Notice that among numerical version siblings, pip will choose the file which matches Python 3.8. Because the pip-accessible file database does not contain the desired version of jaxlib, pip has to install from a secondary source. A text file with the address in selectable format is contained in the _terminal-snippets_ file and the address also appears in the image below. As for the red text warnings shown, the stated non-compatibility does not actually exist; in fact the goal of the whole versioning exercise is to deliver compatibility, which it successfully does.
+The __vmc_pde__ instruction notes specify to use jaxlib version 1.7.4. (Not that it matters, I found that version 1.7.5 is also usable.) Notice that among numerical version siblings, pip will choose the file which matches Python 3.8. Because the pip-accessible file database does not contain the desired version of jaxlib, pip has to install from a secondary source. A text file with the address in selectable format is contained in the _terminal\_snippets_ file and the address also appears in the image below. As for the red text warnings shown, the stated non-compatibility does not actually exist; in fact the goal of the whole versioning exercise is to deliver compatibility, which it successfully does.
 
 <img src="images/install_jaxlib_w_red.png" width=40% height=40%/> 
 
