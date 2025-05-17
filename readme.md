@@ -26,7 +26,7 @@ The iso can be installed as either a virtual machine _a la_ Virtual Box, or as a
 
 __Run It__
 
-Once the distro is running, you can add some preferred applications if desired, such as Mousepad, PCManFM, or Synaptic. The included browser does not meet current Github standards, so download a fresh copy of Firefox or other and extract it in the Downloads directory. Using the new browser, download the Github code from both repositories: whiffee/Jupyter_caveman and RehMoritz/vmc_pde, and extract them.
+Once the distro is running, you can add some preferred applications if desired. Note that before installing anything, the traditional command _sudo apt update_ is recommended. The included browser does not meet current Github standards, so download a fresh copy of Firefox or other and extract it in the Downloads directory. Using the new browser, download the Github code from both repositories: whiffee/Jupyter_caveman and RehMoritz/vmc_pde, and extract them.
 
 <img src="images/bottom_panel.png" width=20% height=20%/>
 
