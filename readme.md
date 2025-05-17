@@ -24,6 +24,9 @@ The iso can be installed as either a virtual machine _a la_ Virtual Box, or as a
 
 <img src="images/virtual_box.png" width=40% height=40%/>
 
+__Install pip__
+
+If you invoke pip in a terminal, advice about the correct syntax for its installation will appear. Pip comes with some baggage, and takes a little time to get installed.
 
 __Run It__
 
