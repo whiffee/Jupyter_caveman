@@ -65,7 +65,7 @@ Download the __vmc_pde__ sample problem code and extract it into a directory.
 
 __Install the Python IDE Pyzo__
 
-To get a quick look at the viability of the code execution machinery, use apt to install the Pyzo program and configure it.
+To get a quick look at the viability of the code execution machinery, use apt to install the Pyzo program; then configure the shell with logical defaults.
 
 <img src="configure_pyzo.png" width=30% height=30%/>
 
