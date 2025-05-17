@@ -32,7 +32,7 @@ Once the distro is running, you can add some preferred applications if desired, 
 
 __Install pip__
 
-If you invoke pip in a terminal, advice about the correct syntax for its installation will appear. As a package manager, pip comes with some baggage, and takes a little time to get installed. When dealing with an older Linux distro, things can go wrong, like not being able to install pip. If this happens, see the pip-related snippet in the file terminal_snippets.txt.
+If you invoke pip in a terminal, advice about the correct syntax for its installation will appear. As a package manager, pip comes with some baggage, and takes a little time to get installed. When dealing with an older Linux distro, things can go wrong, like not being able to install pip. If this happens, see the top line in the file terminal_snippets.txt.
 
 
 __Install the Python Framework__
