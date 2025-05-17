@@ -81,7 +81,7 @@ After saving the change to .bashrc, it is necessary to reboot the computer to in
 
 __Test Jupyter Rendition__
 
-The target directory that was the subject of the $PATH statement in the .bashrc file should be augmented to contain the 14 .py files that are located in the __vmc_fluids__ directory of the __vmc_pde__ code folder, plus a sample notebook file with a cell containing the main.py code. Right click on this target directory, open a terminal, and launch the Jupyter notebook from there, using the launch command _'jupyter notebook'_. Open a notebook file and execute the critical cell. All the output for the sample problem that was shown in Pyzo should show up in the Jupyter output.
+The target directory that was the subject of the $PATH statement in the .bashrc file should be augmented to contain the 14 .py files that are located in the __vmc_fluids__ directory of the __vmc_pde__ code folder, plus a sample notebook file with a cell containing the main.py code. Right click on this target directory, open a terminal, and launch the Jupyter notebook from there, using the launch command _jupyter notebook_. Open a notebook file and execute the critical cell. All the output for the sample problem that was shown in Pyzo should show up in the Jupyter output.
 
 <img src="images/7-pic_final_png.png" width=46% height=46%/>
 
