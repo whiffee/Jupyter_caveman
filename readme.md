@@ -4,7 +4,7 @@ What is a caveman? An announced and prominent trend in usage and development in 
    
 The purpose of this repository is twofold: One, to show how to set up a purely classical notebook environment, and Two, to show how to run the demo problem from __vmc_pde__  in order to appreciate an important recent approach to partial differential equation solving.
 
-<img src="caveman.jpg"  width=7% height=7%/>
+<img src="images/caveman.jpg"  width=7% height=7%/>
 
 __The Distro__
 
