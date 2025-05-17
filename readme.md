@@ -63,11 +63,11 @@ Download the __vmc_pde__ sample problem code and extract it into a directory.
 
 <img src="images/vmc-in-downloads.png" width=40% height=40%/>
 
-__Install the Python IDE IDLE__
+__Install the Python IDE Pyzo__
 
-To get a quick look at the viability of the code execution machinery, use apt to install the Idle program.
+To get a quick look at the viability of the code execution machinery, use apt to install the Pyzo program and configure it.
 
-<img src="idle_header.png" width=52% height=52%/>
+<img src="" width=52% height=52%/>
 
 __Test the Sample Code__
 
