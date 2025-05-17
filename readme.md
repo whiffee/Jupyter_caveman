@@ -77,7 +77,7 @@ In the home directory there is a (hidden) file called .bashrc. It is necessary t
 
 <img src="images/bashrc_bottom.png" width=39% height=39%/>
 
-After saving the change to .bashrc, it is necessary to reboot the computer to incorporate the change. If you forget to do this, then the first time you try to launch Jupyter with the command _jupyter notebook_, the terminal will offer to install Jupyter, which has already been painstakingly installed.
+After saving the change to .bashrc, it is necessary to reboot the computer to incorporate the change. If you forget to do this, then the first time you try to launch Jupyter with the command _jupyter notebook_, the terminal will offer to install Jupyter, which has already been given a custom installation.
 
 __Test Jupyter Rendition__
 
