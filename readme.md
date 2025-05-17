@@ -37,7 +37,7 @@ If you invoke pip in a terminal, advice about the correct syntax for its install
 
 __Install the Python Framework__
 
-Right click the extracted caveman directory and open it in a terminal. You can type _ls_ to view the directory contents. Then run the installation command shown below, the one regarding requirements.txt. It's actually pretty neat that pip can install any number of modules named in a text list, meanwhile ensuring that the exact version you specify is installed in each case. If there happens to be a hiccup, pip will stop the process with red error msgs. In this case, the requirements.txt file can be edited to solve the issue, and the execution can be re-run.
+Right click the extracted caveman directory and open it in a terminal. You can type _ls_ to view the directory contents. Then run the installation command shown below, the one regarding requirements.txt. It's actually pretty neat that pip can install any number of modules named in a text list, meanwhile ensuring that the exact version you specify is installed in each case. If there happens to be a hiccup, pip will stop the process with red error msgs. In that case, the requirements.txt file can be edited to solve the issue, and the execution can be re-run.
 
 <img src="images/install_requirements.png" width=50% height=50%/>
 
