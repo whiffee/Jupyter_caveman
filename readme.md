@@ -26,18 +26,18 @@ The iso can be installed as either a virtual machine _a la_ Virtual Box, or as a
 
 __Run It__
 
-Once the distro is running, you can add some preferred applications if desired, such as Mousepad, PCManFM, or Synaptic. When a basic toolset is in place, download the code from the caveman repository and extract it in the Downloads directory.
+Once the distro is running, you can add some preferred applications if desired, such as Mousepad, PCManFM, or Synaptic. The included browser does not meet current Github standards, so download a fresh copy of Firefox or other and extract it in the Downloads directory. Using the new browser, download the Github code from both repositories: whiffee/Jupyter_caveman and RehMoritz/vmc_pde.
 
 <img src="images/bottom_panel.png" width=20% height=20%/>
 
 __Install pip__
 
-If you invoke pip in a terminal, advice about the correct syntax for its installation will appear. Pip comes with some baggage, and takes a little time to get installed.
+If you invoke pip in a terminal, advice about the correct syntax for its installation will appear. Pip comes with some baggage, and takes a little time to get installed. When dealing with an older distro, things can go wrong, like not being able to install pip. If this happens, see the pip-related snippet in the file _terminal-snippets_.
 
 
 __Install the Python Framework__
 
-Right click the extracted caveman directory and open it in a terminal. You can type _ls_ to view the directory contents. Then run the installation command shown below, the one regarding requirements.txt. It's actually pretty neat that pip can install any number of modules named in a text list, meanwhile ensuring that the exact version you specify is installed in each case. If there happens to be a hiccup, pip will stop the process with red error msgs. In that case, the requirements.txt file can be edited to solve the issue, and the execution can be re-run.
+In Linux you can open a directory by right clicking it and choosing 'Open in Terminal'. Open the caveman directory in a terminal. You can type _ls_ to view the directory contents. Then run the installation command shown below, the one regarding requirements.txt. It's actually pretty neat that pip can install any number of modules named in a text list, meanwhile ensuring that the exact version you specify is installed in each case. If there happens to be a hiccup, pip will stop the process with red error msgs. In that case, the requirements.txt file can be edited to solve the issue, and the execution can be re-run.
 
 <img src="images/install_requirements.png" width=50% height=50%/>
 
@@ -82,6 +82,8 @@ __Edit the PATH__
 In the home directory there is a file called .bashrc. It is necessary to edit this file to get permanent effective change in the $PATH. The permanent change that is desired is access to some designated import directory, which can hold the modules that the application will need to import as ancillaries. At the very end of the file place a $PATH change statement similar to the one shown on the last line of the image below.
 
 <img src="images/bashrc_bottom.png" width=39% height=39%/>
+
+After saving the change to .bashrc, it is necessary to reboot the computer to incorporate the change.
 
 __Test Jupyter Rendition__
 
