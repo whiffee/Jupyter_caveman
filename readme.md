@@ -8,7 +8,7 @@ The purpose of this repository is twofold: One, to show how to set up a purely c
 
 __The Distro__
 
-Why use Mint 20.2 ? For the Jaxlib version that will be required, 1.7.4, the only available Python wheels will be for Python 3.7, 3.8, and 3.9. From Python 3.9 experience, I can say that all is fine with Python 3.9 for this project, but to keep things simple I want to utilize native Python in whatever distro is chosen. Mint 20.2 inherits from Ubuntu 20.04, which ships Python 3.8.2 as default. By the time Mint 20.2 was released, the micro version had progressed to 3.8.10. This is the same version available on Mint 20.3, but I happened to download a corrupted version of 20.3, which soured me I guess. So Mint 20.2 will get the nod.
+Why use Mint 20.2 ? For the Jaxlib version that will be required, 1.7.4, the only available Python wheels will be for Python 3.7, 3.8, and 3.9. Mint 20.2 inherits from Ubuntu 20.04, which ships Python 3.8.2 as default. Perhaps there is a distro out there somewhere that ships with Python 3.9, but for now, Mint 20.2 will do.
 
 __Download It__
 
@@ -18,7 +18,7 @@ Download Mint 20.2 XFCE version. The downloaded iso is about 1.9 GB in size.
 
 __Install It__or__Etch It__
 
-The iso can be installed as either a virtual machine _a la_ Virtual Box, or as an independent drive. If it is to be installed as an independent bootable distro, then Balena Etcher writes the iso to a bootable executable on a SD chip. If destined for a virtual machine, it should be left as a non-bootable iso file. (I did test runs of both paths to verify the procedure outlined here.)
+The iso can be installed as either a virtual machine _a la_ Virtual Box, or as an independent drive. If it is to be installed as an independent bootable distro, then Balena Etcher writes the iso to a bootable executable on a SD chip. If destined for a virtual machine, it should be left as a non-bootable .iso file. (Both paths described were verified.)
 
 <img src="images/balena.png" width=27% height=27%/>
 
@@ -32,12 +32,12 @@ Once the distro is running, you can add some preferred applications if desired, 
 
 __Install pip__
 
-If you invoke pip in a terminal, advice about the correct syntax for its installation will appear. Pip comes with some baggage, and takes a little time to get installed. When dealing with an older distro, things can go wrong, like not being able to install pip. If this happens, see the pip-related snippet in the file _terminal\_snippets_.
+If you invoke pip in a terminal, advice about the correct syntax for its installation will appear. As a package manager, pip comes with some baggage, and takes a little time to get installed. When dealing with an older Linux distro, things can go wrong, like not being able to install pip. If this happens, see the pip-related snippet in the file _terminal\_snippets_.
 
 
 __Install the Python Framework__
 
-In Linux you can open a directory by right clicking it and choosing 'Open in Terminal'. Open the caveman directory in a terminal. You can type _ls_ to view the directory contents. Then run the installation command shown below, the one regarding requirements.txt. It's actually pretty neat that pip can install any number of modules named in a text list, meanwhile ensuring that the exact version you specify is installed in each case. If there happens to be a hiccup, pip will stop the process with red error msgs. In that case, the requirements.txt file can be edited to solve the issue, and the execution can be re-run.
+In Linux you can open a directory by right clicking it and choosing 'Open in Terminal'. Open the caveman directory in a terminal. You can type _'ls'_ to view the directory contents. Then run the installation command shown below, the one regarding requirements.txt. During the ensuing installations, there shouldn't be a hiccup, but if there is, the requirements.txt file can be edited to solve the issue, and the execution can be re-run.
 
 <img src="images/install_requirements.png" width=50% height=50%/>
 
