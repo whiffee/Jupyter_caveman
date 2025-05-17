@@ -86,7 +86,7 @@ The target directory that was the subject of the $PATH statement in the .bashrc 
 <img src="images/7-pic_final_png.png" width=46% height=46%/>
 
 
-clipart credit to Jean Beaufort (publicdomainpictures.net)
+caveman clipart credit to Jean Beaufort (publicdomainpictures.net)
 
 Page last updated on 17 May 2025
 
