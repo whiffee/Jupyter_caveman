@@ -1,0 +1,9 @@
+sudo add-apt-repository universe && sudo apt update && sudo apt install python3-pip
+
+pip install jaxlib==0.1.74 -f https://storage.googleapis.com/jax-releases/jax_releases.html
+
+sudo apt install libopenmpi-dev
+
+
+
+
