@@ -61,12 +61,6 @@ If the module mpi4py is included in the requirements.txt list, it will install s
 
 <img src="images/install_mpi4py.png" width=40% height=40%/>
 
-__Download the VMC_PDE Code__
-
-Download the __vmc_pde__ sample problem code and extract it into a directory.
-
-<img src="images/vmc-in-downloads.png" width=40% height=40%/>
-
 __Install the Python IDE Pyzo__
 
 To get a quick look at the viability of the code execution machinery, use apt to install the Pyzo program; then configure the shell with logical defaults.
