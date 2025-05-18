@@ -88,6 +88,6 @@ The target directory that was the subject of the $PATH statement in the .bashrc 
 
 caveman clipart credit to Jean Beaufort (publicdomainpictures.net)
 
-Page last updated on 17 May 2025
+Page last updated on 18 May 2025
 
   
