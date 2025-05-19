@@ -12,10 +12,10 @@ seems to be necessary to run the program from a terminal within the client.  Onc
 installed, the quality of the instantiation can be judged. A good deal of the impression made by a virtual machine is conferred 
 by its appearance, that is, by its ability to imitate the grain of the real thing. Here, resolution is a proxy for authenticity.
 The guest installation referred to in this case shows a screen resolution of 3282x1965 on Windows, where the parent
- resolution is 3840x2160.  Also, the Guest Editions feature of pass-thru clipboard pasting seems to work, after a fashion. 
-Pass-thru is successful, but a change in the directory contents of either source or destination may require a client reboot to 
-allow the paste. There are a couple of procedures in vogue for setting up pass-thru clipboard installation, you may have to try 
-more than one to get success.
+ resolution is 3840x2160.  A second test is the Guest Editions feature of pass-thru clipboard sharing, which seems to work,
+after a fashion. Clipboard pass-thru is successful, but a change in the directory contents of either source or destination may
+require a client reboot to allow the paste. There are a couple of procedures in vogue for setting up pass-thru clipboard 
+installation, and you may have to try more than one to get success.
 
 
 For the Mint 20.2 client on OSX 10.10, VirtualBox version 6.0.10 has been successfully used. The same comments as for 
