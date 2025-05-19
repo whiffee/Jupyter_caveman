@@ -9,7 +9,9 @@ For the Mint 20.2 client on Windows 10, VirtualBox version 6.1.16 is a good choi
  Editions of the same version number. The Guest Editions must be applied on a per client basis, that is, for each new client, 
 it must be repeated. Double clicking the Guest Editions file does not seem to work effectively for getting it installed. It 
 seems to be necessary to run the program from a terminal within the client.  Once Guest Editions have been successfully 
-installed, the resolution can be checked. I have achieved a client resolution of 3282x1965 on Windows, where the parent
+installed, the quality of the instantiation can be judged. A good deal of the impression made by a virtual machine is conferred 
+by its appearance, that is, by its ability to imitate the grain of the real thing. Here, resolution is a proxy for authenticity.
+The guest installation referred to in this case shows a screen resolution of 3282x1965 on Windows, where the parent
  resolution is 3840x2160.  Also, the Guest Editions feature of pass-thru clipboard pasting seems to work, after a fashion. 
 Pass-thru is successful, but a change in the directory contents of either source or destination may require a client reboot to 
 allow the paste. There are a couple of procedures in vogue for setting up pass-thru clipboard installation, you may have to try 
