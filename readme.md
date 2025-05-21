@@ -63,7 +63,7 @@ If the module mpi4py is included in the requirements.txt list, it will install s
 
 __Install the Python IDE Pyzo__
 
-To get a quick look at the viability of the code execution machinery, use apt to install the Pyzo program; then configure the shell with logical defaults.
+To get a quick look at the viability of the code execution machinery, use apt to install the Pyzo program; then run it and configure the shell with logical defaults.
 
 <img src="images/configure_pyzo.png" width=27% height=27%/>
 
